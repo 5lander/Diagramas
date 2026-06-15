@@ -29,7 +29,9 @@ npm install
 npm start
 ```
 
-Open [http://localhost:3000](http://localhost:3000) in your browser.
+Open [http://localhost:4000](http://localhost:4000) in your browser.
+
+> The dev server port is set to **4000** via the `.env` file (`PORT=4000`) to avoid clashing with other services running on port 3000. Change it there if you need a different port.
 
 ## How to Use
 
